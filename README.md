@@ -34,7 +34,7 @@ Below are the content links to the original post, video, podcast, short, etc. th
 The format for the below entries should be as follows: 
 
 ```markdown
-- [Name of Content Creator/Channel](https://url-to-profile-or-website-here)
+- [Name of Content Creator/Channel](https://url-to-profile-or-website-here) | [Contact Information](contact@information-email.com)
     - Publication Date i.e. Month Day, Year  [Title of Content Publication](https://url-to-content-itself-here) ⎹ Added in Pull Request [#PR-number-here](https://github.com/pieces-app/devrel/pull/pull-request-number-here)
 
 
@@ -48,34 +48,34 @@ i.e. a complete example:
 
 ### YouTube Videos & Shorts
 #### The following are links (newest → oldest) to YouTube that was created by a devrel partner Channel
-- [The Scaling Edge](https://www.youtube.com/@TheScalingEdge)
+- [The Scaling Edge](https://www.youtube.com/@TheScalingEdge) ⎹ [Email: thescalingedge@golance.com](thescalingedge@golance.com)
     - Mar 9, 2024 [12 Ways to Improve at Building Community](https://youtu.be/fxX4Zzr1rEw?si=AeU3108AjiR98O_e)
-- [CodeWithHarry](https://www.youtube.com/@CodeWithHarry)
+- [CodeWithHarry](https://www.youtube.com/@CodeWithHarry) ⎹ [Email: Unknown]()
     - Dec 19, 2023 [Code 10x Faster with Pieces for Developers Developer Productivity Platform (It's Game Changing) 🔥
 ](https://youtu.be/VW6tTFJZbns?si=i3H9KCAr-9u5cgIX)
-- [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
+- [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom) ⎹ [Hitesh's Email: hitesh@hiteshchoudhary.com](hitesh@hiteshchoudhary.com) [Team HC Email: team@hiteshchoudhary.com](team@hiteshchoudhary.com)
     - Aug 24, 2023 [Google and Pieces dropped some interesting updates](https://youtu.be/jAJfytleLx0?si=ElthhGMsJIJGhcnK)
     - Jun 12, 2023 [This will change DSA and Leetcode preparation forever | Pieces for developers](https://youtu.be/y2Fz0dkI4v8?si=wnnKhyi8zWfXRYvH)
     - Jun 5, 2023 [Pieces: An Essential Tool for the Modern Developer's Toolkit](https://youtu.be/cv-6bAeYsOY?si=ur62PaEE8hrUNQrQ)
-- [FreeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+- [FreeCodeCamp.org](https://www.youtube.com/@freecodecamp) ⎹ [Beau Carnes's Email: beau@freecodecamp.org](beau@freecodecamp.org) [Quincy Larson's Email: quincy@freecodecamp.org](quincy@freecodecamp.org)
     - Mar 21, 2022 [Visual Studio Code Extensions to Improve Your Productivity](https://youtu.be/g1vy03ZY5mM?si=1IzB1CVYn52ApmWf)
 
 ### Podcasts
 #### The following are links (newest → oldest) to Podcasts that were created by a devrel partner 
-- [The Developers Bakery](https://thebakery.dev)
+- [The Developers Bakery](https://thebakery.dev) ⎹ [Nicola Corti Email: corti.nico@gmail.com](corti.nico@gmail.com)
     - Jan 22, 2024 [Pieces with Tsavo Knott](https://thebakery.dev/74/)
-- [Dan Fagella - Emerj Podcast](https://podcast.emerj.com)
+- [Dan Fagella - Emerj Podcast](https://podcast.emerj.com) ⎹ [Dan Fagella's Email: dan@emerj.com](dan@emerj.com) [Matthew DeMello's Email: matt@emerj.com](matt@emerj.com)
     - May 11, 2024 [The Market and Tech Forces Shaping the Future of Software Development - with Tsavo Knott of Pieces](https://podcast.emerj.com/the-market-and-tech-forces-shaping-the-future-of-software-development-with-tsavo-knott-of-pieces)
     - Apr 27, 2024 [Automation and Augmentation in Development Tools - with Tsavo Knott of Pieces](https://podcast.emerj.com/automation-and-augmentation-in-development-tools-with-tsavo-knott-of-pieces)
     - Oct 26, 2023 [Solving Software Developer Challenges with AI - with Tsavo Knott of Pieces](https://podcast.emerj.com/solving-software-developer-challenges-with-ai-with-tsavo-knott-of-pieces)
-- [Scott Hanselmann - Hanselminutes](https://hanselminutes.com/)
+- [Scott Hanselmann - Hanselminutes](https://hanselminutes.com/) ⎹ [Scott Hanselman's Email: scott@hanselman.com](scott@hanselman.com)
     - Oct 5, 2023 [Redefining Developer Workflow with Pieces.App's Tsavo Knott](https://hanselminutes.com/913/redefining-developer-workflow-with-piecesapps-tsavo-knott)
 
 ## Blog Posts & Articles
 #### The following are links (newest → oldest) to blog posts that were created by a devrel partner on their blog site
-- [Arsalan Khattak - Khattak.dev](https://khattak.dev/)
+- [Arsalan Khattak - Khattak.dev](https://khattak.dev/) ⎹ [Arsalan Khattak's Email: me@khattak.dev](me@khattak.dev)
     - Jan 11, 2024 [Pieces For Developers](https://khattak.dev/blog/pieces-for-developers/)
-- [Aleksandar (Aleks) Perisic](https://www.linkedin.com/in/apsolut/recent-activity/articles/)
+- [Aleksandar (Aleks) Perisic](https://www.linkedin.com/in/apsolut/recent-activity/articles/) ⎹ [Email: Unknown]()
     - June 7, 2023 [Pieces for Developers - Not just another snippet app](https://www.linkedin.com/pulse/pieces-developers-just-another-snippet-app-aleksandar-perisic/)
 
 ## TikTok
